@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "version": "1.1",
+  "name": "Meme maker",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "https://ih1.redbubble.net/image.5009108082.6994/poster,504x498,f8f8f8-pad,600x600,f8f8f8.u2.jpg"
+  }
+}
